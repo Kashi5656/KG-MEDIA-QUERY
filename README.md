@@ -1,2 +1,2 @@
 <h1>gallery</h1>
-<img src="">
+<img src="Gallery-Media/img/Media.png">
