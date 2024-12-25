@@ -1,0 +1,100 @@
+@media(min-width:320px)
+{
+    .galleryContainar
+{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.box
+{
+    height: auto;
+    margin-top: 20px;
+    height: 250px;
+    width: 100%;
+    background-color: gold;
+}
+}
+
+@media(min-width:576px)
+{
+    .galleryContainar
+{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.box
+{
+    height: auto;
+    margin-top: 20px;
+    height: 250px;
+    width: 100%;
+    background-color: gold;
+}
+}
+@media(min-width:768px)
+{
+    .galleryContainar
+    {
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .box
+    {
+        height: auto;
+        margin-top: 20px;
+        height: 250px;
+        width: 48%;
+        background-color: gold;
+    }
+}
+@media(min-width:992px)
+{
+    .galleryContainar
+    {
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .box
+    {
+        height: auto;
+        margin-top: 20px;
+        height: 250px;
+        width: 23%;
+        background-color: gold;
+    }
+}
+@media(min-width:1200px)
+{
+    .galleryContainar
+    {
+        width: 70%;
+        height: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .box
+    {
+        
+        height: auto;
+        margin-top: 20px;
+        height: 250px;
+        width: 23       %;
+        background-color: gold;
+    }
+}
