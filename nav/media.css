@@ -1,0 +1,1077 @@
+ @media (max-width: 480px){ 
+    .navContainer .nav{
+        height: 280px;
+    }
+    .nav .search i{
+        font-size: 18px;
+    }
+    .nav .search b{
+        font-size: 15px;
+    }
+    .nav .login{
+        padding: 45px 0;
+    }
+    .nav .login span{
+        float: left;
+        
+    }
+    .nav .login i{
+        font-size: 13px;
+        float: left;
+    }
+    .nav .login span b{
+        font-size: 13px;
+    }
+    .nav .logoMenu h2{
+        font-size: 30px;
+    }
+    .nav .logoMenu .menu{
+        height: auto;
+    }
+    .menu ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu ul li{
+        line-height: 50px;
+    }
+    .bennarcontenar {
+
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .bennar-1 {
+        height: 590px;
+        width: 100%;
+        background-color: #F1E4B8;
+    }
+    
+    .bennar-2 {
+        height: 590px;
+        width: 100%;
+    }
+    
+    .bennar-2 img {
+        height: 590px;
+        width: 100%;
+    }
+    
+    .contendbennar {
+        height: auto;
+        width: 100%;
+        margin-top: 180px;
+    }
+    .contendbennar h1
+    {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 55px;
+        margin-bottom: 22px;
+    }
+    .contendbennar p
+    {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        margin-bottom: 22px;
+    }
+    .contendbennar button
+    {
+        height: 39px;
+        width: 142px;
+        background-color: transparent;
+        border: 2px solid black;
+        border-radius: 30px;
+        position: absolute;
+        left: 35%;
+        transition: 0.7s;
+    }
+    .contendbennar button:hover
+    {
+        background-color: rgb(0, 0, 0);
+        color: #F1E4B8;
+    }
+    .geft h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px 0px;
+    font-size: 20px;
+
+}
+.ListMenu
+{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.ListMenuContenar
+{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+
+}
+.ListMenuContenar .List-1
+{
+    background-image: url('img/listhovar-1.png');
+    background-size: cover;
+    height: 380px;
+    width: 380px;
+    border-radius: 20px;
+    transition: 0.6s;
+}
+.List-1:hover
+{
+    background-image: url('img/list-1.jpg');
+    height: 380px;
+    width: 380px;
+
+}
+.ListMenuContenar .List-2
+{
+    background-image: url('img/listhovar-2.png');
+    height: 380px;
+    width: 380px;
+    border-radius: 20px;
+    transition: 0.6s;
+    display: none;
+}
+.List-2:hover
+{
+    background-image: url('img/list-2.jpg');
+    height: 380px;
+    width: 380px;
+    display: none;
+}
+.ListMenuContenar .List-3
+{
+    background-image: url('img/listhovar-3.png');
+    height: 380px;
+    width: 380px;
+    border-radius: 20px;
+    transition: 0.6s;
+    display: none;
+}
+.List-3:hover
+{
+    background-image: url('img/list-3.jpg');
+    height: 380px;
+    width: 380px;
+    display: none;
+}
+.ListMenuContenar .List-4
+{
+    background-image: url('img/listhovar-4.png');
+    height: 380px;
+    width: 380px;
+    border-radius: 20px;
+    transition: 0.6s;
+    display: none;
+}
+.List-4:hover
+{
+    background-image: url('img/list-4.jpg');
+    height: 380px;
+    width: 380px;
+    display: none;
+}
+.listtextContenar
+{
+    width: 100%;
+    margin: auto;
+    display: flex;
+flex-direction: column;
+
+}
+.list-1text h5
+{
+    width: 100%;
+    height: auto;
+    margin-top: 10PX;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+
+}
+.list-2text h5
+{
+    display: none;
+}
+.list-3text h5
+{
+    display: none;
+}
+.list-4text h5
+{
+    display: none;
+}
+.wavesbennar
+{
+    height: auto;
+    width: 100%;
+    margin-top: 70px;
+}
+.wavesbennar img
+{
+    height: auto;
+    width: 100%;
+    
+}
+.wavesbennar .imgbutton
+{
+    height: 15px;
+    width: 70px;
+    background-color: #E1DFE0;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.wavesbennar .imgbutton h4
+{
+    margin-top: 3px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 6px;
+    font-weight: 200;
+}
+.imgbutton:hover
+{
+    background-color: black;
+    color: #E1DFE0;
+}
+.home h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px 0px;
+    font-size: 20px;
+}
+.fourbox
+{
+    width: 100%;
+}
+.fourboxContenar
+{
+    height: 320px;
+    width: 305px;
+    margin: auto;
+    display: flex;
+justify-content: center;
+align-content: start;
+    flex-wrap: wrap;
+}
+.fourboxContenar .box-1
+{
+    height: 142px;
+    width: 142px;
+    background-image: url('img/ss-2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.6s;
+}
+.fourboxContenar .box-2
+{
+    height: 142px;
+    width: 142px;
+   background-color: #EAE1F5;
+}
+.fourboxContenar .box-3
+{
+    height: 142px;
+    width: 142px;
+    background-color: #EAE1F5;
+
+}
+.fourboxContenar .box-4
+{
+    height: 142px;
+    width: 142px;
+    background-image: url('img/ss-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.6s;
+}
+.box-1:hover
+{
+    background-image: url('img/option-1.jpg');
+}
+.box-4:hover
+{
+    background-image: url('img/option-2.jpg');
+}
+.boxcontenar
+{
+    height: 80px;
+    width: 80px;
+    margin: 15px auto;
+
+}
+.boxcontenar h3
+{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+
+}
+.boxcontenar h3 button
+{
+
+    height: 40px;
+    width: 112px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+    margin-bottom: 20px;
+    display: none;
+}
+h3 button:hover
+{
+    background-color: black;
+    color: #EAE1F5;
+}
+.boxcontenar-2
+{
+    height: 80px;
+    width: 80px;
+    margin: 15px auto;
+}
+.boxcontenar-2 h3
+{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+.boxcontenar-2 p
+{
+    margin-left: 15px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+.box-3 button
+{
+    height: 40px;
+    width: 112px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+    margin-left: 175px;
+    display: none;
+
+}
+.box-3 button:hover
+{
+    background-color: black;
+    color: #EAE1F5;
+}
+.lookup h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px 0px 10px 0px;
+    font-size: 20px;
+}
+.imgbox 
+{
+    width: 100%;
+}
+.imgbox .imgboxcontenar
+{
+    height: 315px;
+    width: 315px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgboxcontenar .imgbox-1
+{
+    height: 104px;
+    width: 104px;
+    background-image: url('img/img-1.png');
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-1:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-1.png');
+    
+}
+.imgboxcontenar .imgbox-2
+{
+    background-image: url('img/img-2.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-2:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-2.png');
+    
+}
+.imgboxcontenar .imgbox-3
+{
+    background-image: url('img/img-3.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-3:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-3.png');
+    
+}
+.imgboxcontenar .imgbox-4
+{
+    background-image: url('img/img-4.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-4:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-4.png');
+    
+}
+.imgboxcontenar .imgbox-5
+{
+    background-image: url('img/img-5.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-5:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-5.png');
+    
+}
+.imgboxcontenar .imgbox-6
+{
+    background-image: url('img/img-6.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-6:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-6.png');
+    
+}
+.imgboxcontenar .imgbox-7
+{
+    background-image: url('img/img-7.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-7:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-7.png');
+    
+}
+.imgboxcontenar .imgbox-8
+{
+    background-image: url('img/img-8.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-8:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-8.png');
+    
+}
+.imgboxcontenar .imgbox-9
+{
+    background-image: url('img/img-9.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-9:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-9.png');
+    
+}
+.footer
+{
+    height: auto;
+    width: 100%;
+    background-color: #F1E4B8;
+    overflow-y: hidden;
+
+}
+.footercontenar
+{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.footercontenar .footer-1
+{
+    padding-top: 30px;
+}
+.footer-1 ul li 
+{
+    padding-bottom: 15px;
+    list-style: none;
+}
+.footer-1 ul li a
+{
+    color: black;
+    text-decoration: none;
+}
+.footer-1 ul li .text
+{
+    height: 44px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 2px solid black;
+}
+.footer-1 ul li .checkbox
+{
+    height: 20px;
+    width: 20px;
+    background-color: #F1E4B8;
+}
+.footer-1 ul button  
+{
+    height: 27px;
+    width: 117px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    position: absolute;
+    bottom: 9%;
+    left: 60%;
+    color: #F1E4B8;
+    transition: 0.6s;
+
+}
+.footer-1 ul button:hover
+{
+    background-color:  transparent;
+    color: black;
+}
+.footer .footerlogo
+{
+    margin-top: 20px;
+    height: auto;
+    width: 100%;
+}
+.footer .footerlogo p
+{
+    font-size: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+}
+
+@media(max-width:768px)
+{
+    .navContainer .nav{
+        height: 280px;
+    }
+    .nav .search i{
+        font-size: 18px;
+        margin-left: 25px;
+    }
+    .nav .search b{
+        font-size: 18px;
+    }
+    .nav .login{
+        padding: 45px 0;
+    }
+    .nav .login span{
+       float: left;
+       margin-left: 15px;
+    }
+    .nav .login i{
+        font-size: 15px;
+        float: left;
+        margin-left: 50px;
+    }
+    .nav .login span b{
+        font-size: 15px;
+    }
+    .nav .logoMenu h2{
+        font-size: 30px;
+    }
+    .nav .logoMenu .menu{
+        height: auto;
+    }
+    .menu ul{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu ul li{
+        line-height: 50px;
+    }
+    .bennarcontenar
+    {
+        height: auto;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .bennar-1
+    {
+        width: 100%;
+    }
+   .bennar-2
+   {
+    width: 100%;
+   } 
+   .contendbennar button
+   {
+    position: absolute;
+    left: 40%;
+   }
+   .ListMenu
+   {
+    width: 100%;
+   }
+   .ListMenuContenar
+   {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   }
+   .ListMenuContenar .List-1
+   {
+        height: 360px;
+        width: 360px;
+   }
+   .ListMenuContenar .List-2
+   {
+    height: 360px;
+    width: 360px;
+   } 
+   .ListMenuContenar .List-3
+   {
+    height: 360px;
+    width: 360px;
+    display: none;
+   } 
+   .ListMenuContenar .List-4
+   {
+    height: 360px;
+    width: 360px;
+    display: none;
+   }
+   .listtextContenar
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+   .list-1text h5
+   {
+       width: auto;
+       margin: 20px;
+   }
+   .list-2text h5
+   {
+    width: auto;
+    margin: 20px;
+   }
+   .list-3text
+   {
+        display: none;
+   }
+   .list-4text
+   {
+        display: none;
+   }
+   .wavesbennar
+   {
+    height: auto;
+    width: 100%;
+   }
+   .wavesbennar img
+   {
+    height: auto;
+    width: 100%;
+   }
+   .wavesbennar .imgbutton
+{
+    height: 27px;
+    width: 80px;
+    background-color: #E1DFE0;
+    border: 2px solid black;
+    border-radius: 30px;
+    position: absolute;
+    top: 33%;
+    left: 2%;
+}
+.wavesbennar .imgbutton h4
+{
+    margin-top: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 200;
+}
+.home h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px 0px;
+}
+.fourbox
+{
+    width: 100%;
+}
+.fourboxContenar
+{
+    height: 320px;
+    width: 305px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.fourboxContenar .box-1
+{
+    height: 142px;
+    width: 142px;
+}
+.fourboxContenar .box-2
+{
+    height: 142px;
+    width: 142px;
+}
+.fourboxContenar .box-3
+{
+    height: 142px;
+    width: 142px;
+}
+.fourboxContenar .box-4
+{
+    height: 142px;
+    width: 142px;
+}
+.boxcontenar
+{
+    height: 100px;
+    width: 100px;
+    margin: 55px auto;
+}
+.boxcontenar h3
+{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+
+}
+.boxcontenar h3 button
+{
+
+    height: 40px;
+    width: 112px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+    margin-bottom: 20px;
+    display: none;
+}
+h3 button:hover
+{
+    background-color: black;
+    color: #EAE1F5;
+}
+.boxcontenar-2
+{
+    height: 100px;
+    width: 100px;
+    margin: 55px auto;
+}
+.boxcontenar-2 h3
+{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+.boxcontenar-2 p
+{
+    margin-left: 15px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+.box-3 button
+{
+    height: 40px;
+    width: 112px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: transparent;
+    color: black;
+    margin-left: 175px;
+    display: none;
+
+}
+.box-3 button:hover
+{
+    background-color: black;
+    color: #EAE1F5;
+}
+.boxcontenar-2 p
+{
+    margin-left: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+.lookup h2
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    margin: 50px 0px 10px 0px;
+    font-size: 20px;
+}
+.imgbox
+{
+    width: 100%;
+    margin-top: 20px;
+}
+.imgbox .imgboxcontenar
+{
+    height: 315px;
+    width: 315px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+}
+.imgboxcontenar .imgbox-1
+{
+    height: 104px;
+    width: 104px;
+    background-image: url('img/img-1.png');
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-1:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-1.png');
+    
+}
+.imgboxcontenar .imgbox-2
+{
+    background-image: url('img/img-2.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-2:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-2.png');
+    
+}
+.imgboxcontenar .imgbox-3
+{
+    background-image: url('img/img-3.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-3:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-3.png');
+    
+}
+.imgboxcontenar .imgbox-4
+{
+    background-image: url('img/img-4.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-4:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-4.png');
+    
+}
+.imgboxcontenar .imgbox-5
+{
+    background-image: url('img/img-5.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-5:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-5.png');
+    
+}
+.imgboxcontenar .imgbox-6
+{
+    background-image: url('img/img-6.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-6:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-6.png');
+    
+}
+.imgboxcontenar .imgbox-7
+{
+    background-image: url('img/img-7.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-7:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-7.png');
+    
+}
+.imgboxcontenar .imgbox-8
+{
+    background-image: url('img/img-8.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-8:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-8.png');
+    
+}
+.imgboxcontenar .imgbox-9
+{
+    background-image: url('img/img-9.png');
+    height: 104px;
+    width: 104px;
+    background-position: center;
+    background-size: cover;
+}
+.imgbox-9:hover
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/img-9.png');
+    
+} 
+.footer
+{
+    height: auto;
+    width: 100%;
+    background-color: #F1E4B8;
+}
+.footercontenar
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footercontenar .footer-1
+{
+    padding-top: 50px;
+}
+.footer-1 ul li 
+{
+    padding-bottom: 15px;
+    list-style: none;
+}
+.footer-1 ul li a
+{
+    color: black;
+    text-decoration: none;
+}
+.footer-1 ul li .text
+{
+    height: 44px;
+    width: 386px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 2px solid black;
+}
+.footer-1 ul li .checkbox
+{
+    height: 20px;
+    width: 20px;
+    background-color: #F1E4B8;
+}
+.footer-1 ul button  
+{
+    height: 27px;
+    width: 107px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    position: absolute;
+    bottom: 27%;
+    left: 55%;
+    color: #F1E4B8;
+    transition: 0.6s;
+
+}
+.footer-1 ul button:hover
+{
+    background-color:  transparent;
+    color: black;
+}
+.footer .footerlogo
+{
+    margin-top: 20px;
+    height: 396px;
+    width: auto;
+    margin: auto;
+}
+.footer .footerlogo p
+{
+    font-size: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}   
+}
