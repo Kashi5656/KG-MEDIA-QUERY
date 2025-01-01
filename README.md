@@ -11,4 +11,4 @@
 <a href="https://dynamic-flan-21091e.netlify.app/"><img src="Mquary-Exam/m-1.png"></a>
 
 <h1>Blog Post</h1>
-<a href="https://kaleidoscopic-churros-3bf0fe.netlify.app/"><img src="Mquary-Exam/m-2.png"></a>
+<a href="https://kaleidoscopic-churros-3bf0fe.netlify.app/"><img src="Mquary-Exam-2/m-2.png"></a>
