@@ -1,0 +1,96 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form
+{
+    height: 650px;
+    width: 550px;
+    background-color: rgb(184, 55, 98);
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(-50%,20%);
+    top: 50%;
+    left: 50%;
+    
+}
+.formcontainar
+{
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    background-color: bisque;
+    margin-top: 20px;
+}
+.h1
+{
+    padding-left: 160px;
+    padding-top: 30px;
+}
+.h2
+{
+    padding-left: 150px;
+    padding-top: 15px;
+}
+.p
+{
+    padding-top: 5px;
+    padding-left: 60px;
+    font-weight: 500;
+}
+.mainform
+{
+    height: 450px;
+    width: 470px;
+   margin: auto;
+   margin-top: 18px;
+    box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.5);
+}
+.main-h2
+{
+    padding-left: 160px;
+    padding-top: 5px;
+}
+.inputs
+{
+    height: auto;
+    width: 470px;
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.h4
+{
+    margin-bottom: 20px;
+}
+input
+{
+    height: 35px;
+    width: 100%;
+    border: none;
+    border-radius: 20PX;
+}
+textarea
+{
+    height: 70px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+}
+button
+{
+    background-color: rgb(75, 196, 75);
+    height: 35px;
+    width: 70px;
+    border: none;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+button:hover
+{
+    background-color: white;
+}
